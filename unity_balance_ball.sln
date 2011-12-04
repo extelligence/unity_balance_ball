@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{840AF2EA-FA1C-CD4C-ABC5-49378C1089FD}") = "unity_balance_ball", "Assembly-UnityScript.unityproj", "{E376B369-BE1B-471C-837D-965774FD3BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E376B369-BE1B-471C-837D-965774FD3BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E376B369-BE1B-471C-837D-965774FD3BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E376B369-BE1B-471C-837D-965774FD3BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E376B369-BE1B-471C-837D-965774FD3BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
